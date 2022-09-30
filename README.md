@@ -22,8 +22,6 @@ Secondary Cloud Drives:
 
 →{Degoo Drive}={ https://app.degoo.com/share/DWmrvf0KQJIKTgrkaowtMQ }
 
-→{Icedrive}={ https://icedrive.net/s/P7aFgX413xT7SFyAxAXDviSWTBjW }
-
 →{pCloud}={ https://e.pcloud.link/publink/show?code=OHKotalK }
 
 
