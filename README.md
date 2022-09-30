@@ -3,9 +3,12 @@ Galactic Empire (Public)
 
 [Galactic Terminal(Internet)]
 
+«GitHub»
+
+→{GitHub}={ https://github.com/GalacticTerminal }
+
 
 «Cloud - Current Live Storage Drives of Galactic Empire (Public)»
-
 
 Primary Cloud Drive:
 
@@ -35,3 +38,5 @@ Secondary Cloud Drives:
 «Public Archive»
 
 →{Internet Archive}={ https://archive.org/details/GalacticTerminal }
+
+(The kids are taking over, everywhere.)
