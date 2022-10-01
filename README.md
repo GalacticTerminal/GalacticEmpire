@@ -10,15 +10,15 @@ Galactic Empire (Public)
 
 «Cloud - Current Live Storage Drives of Galactic Empire (Public)»
 
-Primary Cloud Drive:
+(Primary Cloud Drives):
 
 →{OneDrive}={ https://1drv.ms/u/s!Aqc9MHxrPssCakonMvM36o7BB0Q }
 
-Secondary Cloud Drives:
+→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }
+
+(Secondary Cloud Drives):
 
 →{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }
-
-→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }
 
 →{Degoo Drive}={ https://app.degoo.com/share/DWmrvf0KQJIKTgrkaowtMQ }
 
