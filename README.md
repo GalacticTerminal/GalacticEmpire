@@ -20,6 +20,8 @@ Galactic Empire (Public)
 
 →{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }
 
+→{Amazon Drive}={ https://www.amazon.com/clouddrive/share/R3ro9ck5h5YR45BXNcHSPOl7ufhceQ6tz6jeureqTQd }
+
 →{Degoo Drive}={ https://app.degoo.com/share/DWmrvf0KQJIKTgrkaowtMQ }
 
 →{pCloud}={ https://e.pcloud.link/publink/show?code=OHKotalK }
