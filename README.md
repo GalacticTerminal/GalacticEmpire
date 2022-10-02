@@ -31,6 +31,8 @@ Galactic Empire (Public)
 
 →{pCloud}={ https://eapi.pcloud.com/getpubzip?code=OHKotalK }
 
+→{Amazon Drive}={ https://content-na.drive.amazonaws.com/cdproxy/batchLink/drvBE2wzYD5o9dKgnvDztx9tvZZuTLkOsBPadN8oSdJ/content }
+
 
 «Twitter 2.2»
 
