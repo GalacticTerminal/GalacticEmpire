@@ -1,12 +1,11 @@
 # GalacticEmpire
 Galactic Empire (Public)
 
-[Galactic Terminal(Internet)]
+[Galactic Terminal(Current 2-D Internet)]
 
-«GitHub»
+«Git»
 
 →{GitHub}={ https://github.com/GalacticTerminal }
-
 
 «Cloud - Current Live Storage Drives of Galactic Empire (Public)»
 
@@ -26,18 +25,15 @@ Galactic Empire (Public)
 
 →{pCloud}={ https://e.pcloud.link/publink/show?code=OHKotalK }
 
-
 «Cloud - Current Live Storage Archive of Galactic Empire (Public)»
 
 →{pCloud}={ https://eapi.pcloud.com/getpubzip?code=OHKotalK }
 
 →{Amazon Drive}={ https://content-na.drive.amazonaws.com/cdproxy/batchLink/drvBE2wzYD5o9dKgnvDztx9tvZZuTLkOsBPadN8oSdJ/content }
 
-
 «Twitter 2.2»
 
 →{Twitter}={ https://twitter.com/GalacticConsole }
-
 
 «Public Archive»
 
