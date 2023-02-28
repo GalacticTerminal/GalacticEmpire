@@ -32,5 +32,3 @@ Galactic Empire (Public)
 «Public Archive»
 
 →{Internet Archive}={ https://archive.org/details/GalacticTerminal }
-
-(The kids are taking over, everywhere.)
