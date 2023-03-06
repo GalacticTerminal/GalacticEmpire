@@ -28,6 +28,7 @@ Galactic Empire (Public)
 «Twitter 2.2»
 
 →{Twitter}={ https://twitter.com/GalacticConsole }
+→{Nostr}={ https://snort.social/p/npub1v45xdes7sarvqu6mes94k0ewcn5ga8z6e0cwsftf2svzk833y8yqgxe87e }
 
 «Public Archive»
 
