@@ -25,7 +25,7 @@ Galactic Empire (Public)
 
 →{pCloud}={ https://eapi.pcloud.com/getpubzip?code=OHKotalK }
 
-«Twitter 2.2»
+«Twitter 2.3»
 
 →{Twitter}={ https://twitter.com/GalacticConsole }
 
