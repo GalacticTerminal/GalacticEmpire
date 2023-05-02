@@ -2,7 +2,6 @@
 Galactic Empire (Public)
 
 [Galactic Terminal(Current 2-D Internet)]
-
 «Git»
 
 →{GitHub}={ https://github.com/GalacticTerminal }
@@ -29,7 +28,29 @@ Galactic Empire (Public)
 
 →{Twitter}={ https://twitter.com/GalacticConsole }
 
-→{Nostr(Current)}={ npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
+«Nostr»
+
+[Public Key(Current)]
+
+key:{ npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
+
+hex:{ 00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
+
+[Nostr Web Sites]
+
+Primal:{ https://primal.net/profile/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
+
+Nostrview:{ https://nostrview.com/profile/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
+
+Nostrgram:{ https://nostrgram.co/?build=626#profile:allEvents:00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
+
+Nostrch:{ https://nostr.ch/00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
+
+Nostrpro:{ https://nostr.pro/p/00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
+
+Nostrband:{ https://nostr.band/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
+
+Snort:{ https://snort.social/p/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
 
 «Public Archive»
 
