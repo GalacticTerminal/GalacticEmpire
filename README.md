@@ -20,6 +20,10 @@ Galactic Empire (Public)
 
 →{pCloud}={ https://e.pcloud.link/publink/show?code=OHKotalK }
 
+«Cloud - Latest Full Archive of Galactic Empire (Public)»
+
+→{GitHub}={ https://github.com/GalacticTerminal/GalacticEmpire/releases }
+
 «Cloud - Current Live Storage Archive of Galactic Empire (Public)»
 
 →{pCloud}={ https://eapi.pcloud.com/getpubzip?code=OHKotalK }
