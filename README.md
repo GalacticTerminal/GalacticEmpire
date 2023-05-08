@@ -48,6 +48,8 @@ key:{ npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
 
 hex:{ 00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
 
+→{Nostr Web Clients}=
+
 Nostrview:{ https://nostrview.com/profile/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
 
 Primal:{ https://primal.net/profile/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
