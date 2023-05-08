@@ -45,7 +45,7 @@ Galactic Empire (Public)
 
 [Nostr(Current)]
 
-→{Nostr}={ https://www.nostr.guru/e/c8a93a779c1a39fb1cdd6edbe7f8ebeab2e4b3d81a11bc3d5995e761920220f2 }
+→{Profile}={ https://www.nostr.guru/e/c8a93a779c1a39fb1cdd6edbe7f8ebeab2e4b3d81a11bc3d5995e761920220f2 }
 
 key:{ npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
 
