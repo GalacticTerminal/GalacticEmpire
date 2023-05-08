@@ -37,10 +37,13 @@ Galactic Empire (Public)
 →{pCloud}={ https://eapi.pcloud.com/getpubzip?code=OHKotalK }
 
 
-«Postings»
+
+«Official Postings»
 
 
 →{Substack}={ https://galacticterminal.substack.com/notes }
+
+[Nostr(Current)]
 
 →{Nostr}={ https://www.nostr.guru/e/c8a93a779c1a39fb1cdd6edbe7f8ebeab2e4b3d81a11bc3d5995e761920220f2 }
 
@@ -61,6 +64,7 @@ Snort:{ https://snort.social/p/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0
 Nostrband:{ https://nostr.band/npub1qz3a2selrfh9mv8a5j8m9a49as24q353xjp9pfwr0pu0xk8e202sxf0akq }
 
 Nostrch:{ https://nostr.ch/00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
+
 
 
 «Public Archive»
