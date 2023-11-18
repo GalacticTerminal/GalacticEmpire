@@ -1,5 +1,5 @@
 # GalacticEmpire
-Galactic Empire (Public)
+Galactic Empire (Terminal)
 
 [Galactic Terminal(Current 2-D Internet)]
 
@@ -27,7 +27,7 @@ Galactic Empire (Public)
 →{pCloud}={ https://e.pcloud.com/publink/show?code=OHKotalK }
 
 
-[Latest Data Archive of Galactic Terminal (Public)]
+[Latest Data Archive of Galactic Empire (Terminal)]
 
 →{GitHub}={ https://github.com/GalacticTerminal/GalacticEmpire/releases }
 
