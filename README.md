@@ -24,24 +24,17 @@ Galactic Empire (Public)
 
 →{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }
 
-→{pCloud}={ https://e.pcloud.link/publink/show?code=OHKotalK }
+→{pCloud}={ https://e.pcloud.com/publink/show?code=OHKotalK }
 
 
-[Latest Data Archive of Galactic Empire (Public)]
+[Latest Data Archive of Galactic Terminal (Public)]
 
 →{GitHub}={ https://github.com/GalacticTerminal/GalacticEmpire/releases }
 
 
-[Latest Live Storage Archive of Galactic Empire (Public)]
-
-→{pCloud}={ https://eapi.pcloud.com/getpubzip?code=OHKotalK }
-
-
-
 «Official Postings»
 
-
-→{Substack}={ https://galacticterminal.substack.com/notes }
+→{Substack}={ https://substack.com/@GalacticTerminal }
 
 [Nostr(Current)]
 
@@ -53,7 +46,7 @@ hex:{ 00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
 
 
 
-«Public Archive»
+«Glacial Archive»
 
 
 →{Internet Archive}={ https://archive.org/details/GalacticTerminal }
