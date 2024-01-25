@@ -15,17 +15,15 @@ Galactic Empire (Terminal)
 
 [Primary Cloud Drives]:
 
-→{OneDrive}={ https://1drv.ms/u/s!Aqc9MHxrPssCakonMvM36o7BB0Q }
+→{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }:(primary timestamp registry of data generation+modification)
 
-→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }
-
+→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }:(secondary timestamp registry of data generation+modification)
 
 [Secondary Cloud Drives]:
 
-→{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }
-
 →{pCloud}={ https://e.pcloud.com/publink/show?code=OHKotalK }
 
+→{OneDrive}={ https://1drv.ms/u/s!Aqc9MHxrPssCakonMvM36o7BB0Q }
 
 [Latest Data Archive of Galactic Empire (Terminal)]
 
