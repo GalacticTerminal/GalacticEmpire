@@ -15,9 +15,9 @@ Galactic Empire (Terminal)
 
 [Primary Cloud Drives]:
 
-→{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }:(primary timestamp registry of data generation+modification)
+→{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }
 
-→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }:(secondary timestamp registry of data generation+modification)
+→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }
 
 [Secondary Cloud Drives]:
 
