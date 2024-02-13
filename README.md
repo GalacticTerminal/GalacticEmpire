@@ -17,11 +17,11 @@ Galactic Empire (Terminal)
 
 →{Google Drive}={ https://drive.google.com/drive/folders/1i5MyGqk5Gd0Yud1MnTbt42ZCAJ_rJUAU }
 
-→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }
+→{Mega Drive}={ https://mega.nz/folder/wxs3nTjI#sNA3U4_Mbu0kbLhul3tFJQ }:(primary timestamp registry of data generation+modification)
 
 [Secondary Cloud Drives]:
 
-→{pCloud}={ https://e.pcloud.com/publink/show?code=OHKotalK }
+→{pCloud}={ https://e.pcloud.com/publink/show?code=OHKotalK }:(secondary timestamp registry of data generation+modification)
 
 →{OneDrive}={ https://1drv.ms/u/s!Aqc9MHxrPssCakonMvM36o7BB0Q }
 
@@ -47,4 +47,4 @@ hex:{ 00a3d5433f1a6e5db0fda48fb2f6a5ec15504691348250a5c37878f358f953d5 }
 «Glacial Archive»
 
 
-→{Internet Archive}={ https://archive.org/details/GalacticTerminal }
+→{Internet Archive}={ https://archive.org/details/GalacticTerminal }:(public timestamp registry of data archives)
